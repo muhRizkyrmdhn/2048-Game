@@ -2,7 +2,7 @@
 
 > Classic 2048 with a built-in **Expectimax AI** solver and a **Glassmorphism** dark-theme UI,
 > deployable for free on [Streamlit Community Cloud](https://streamlit.io/cloud).
-
+> Try it [https://2048-game-kelompok-3.streamlit.app/]
 ---
 
 ## ✨ Features
